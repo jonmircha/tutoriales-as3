@@ -1,4 +1,4 @@
-<h1>Tutoriales AS3 de Bextlan</h1>
+<h1>Tutoriales AS3 de @jonmircha</h1>
 <p>
-    En este repositorio encontrarás los códigos de los <a href="http://bextlan.com/tutoriales/as3" target="_blank">Tutoriales AS3 de Bextlan</a>
+    En este repositorio encontrarás los códigos de los <a href="https://www.youtube.com/playlist?list=PLB9840C1696C1BC94" target="_blank">Tutoriales AS3 de @jonmircha</a>
 </p>
